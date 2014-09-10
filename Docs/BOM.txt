@@ -1,12 +1,12 @@
 BOM
 
 Item			Quantity	Unit Price	Total Price		Link	
-Female Headers	1			$1.50		$1.50			https://www.sparkfun.com/products/115	
-Optoisolator	7			$0.95		$6.65			https://www.sparkfun.com/products/314	
-LED 3mm			7			$0.35		$2.45			https://www.sparkfun.com/products/9650	
-RJ45 8-Pin		1			$1.50		$1.50			https://www.sparkfun.com/products/643	
-Custom PCB		1			$7.73		$7.73		
-Spark Core		1			$39.00		$39.00			https://www.spark.io/#	
+Female Headers		1		$1.50		$1.50			https://www.sparkfun.com/products/115	
+Optoisolator		7		$0.95		$6.65			https://www.sparkfun.com/products/314	
+LED 3mm			7		$0.35		$2.45			https://www.sparkfun.com/products/9650	
+RJ45 8-Pin		1		$1.50		$1.50			https://www.sparkfun.com/products/643	
+Custom PCB		1		$7.73		$7.73		
+Spark Core		1		$39.00		$39.00			https://www.spark.io/#	
 					
 					
 					
