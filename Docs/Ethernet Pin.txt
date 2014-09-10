@@ -1,0 +1,11 @@
+Color T-568A	Color T-568B	Pin	Description
+Brown			Brown			8	GND
+Brown/White		Brown/White		7	Fan High
+Orange			Green			6	Fan Mid
+Blue/White		Blue/White		5	Fan Low
+Blue			Blue			4	Fan Off
+Orange/White	Green/White		3	DIP 3
+Green			Orange			2	DIP 2
+Green/White		Orange/White	1	DIP 1
+			
+			

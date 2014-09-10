@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:key="spark_setting" android:title="Spark Settings">
+        <Preference android:title="Spark Credentials" android:key="spark_credential"/>
+        <Preference android:title="Spark Device" android:key="spark_device"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:key="fans" android:title="Fan Configuration"></PreferenceCategory>
+
+</PreferenceScreen>
